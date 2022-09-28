@@ -14,7 +14,7 @@ export const Footer = () => {
             nextjs
           </a>{" "}
           and{" "}
-          <a href="https://tailwindcss.com/.org/" className="text-shade-light-blue">
+          <a href="https://tailwindcss.com/" className="text-shade-light-blue">
             tailwind
           </a>
         </p>
@@ -26,7 +26,7 @@ export const Footer = () => {
             <a href="https://github.com/thegeorgenikhil">github</a>
           </li>
           <li className="hover:text-shade-light-blue">
-            <a href="https://linkedin.com/thegeorgenikhil">linkedin</a>
+            <a href="https://www.linkedin.com/in/thegeorgenikhil/">linkedin</a>
           </li>
         </ul>
       </div>
