@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
-import React from "react";
-import Masonry from "react-masonry-css";
+import React, { ComponentType } from "react";
+import Masonry from "./Masonry";
 
 const Columns = {
   default: 3,
